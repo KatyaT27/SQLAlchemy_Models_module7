@@ -14,7 +14,7 @@ This is a Python program that interacts with a PostgreSQL database using SQLAlch
 -Clone or download the project repository.
 -Open a terminal and navigate to the project directory.
 
-git clone <https://github.com/KatyaT27/......git>
+git clone <https://github.com/KatyaT27/SQLAlchemy_Models_module7.git>
 cd SQLAlchemy_Models_module7
 
 -Build the Docker containers using docker-compose:
